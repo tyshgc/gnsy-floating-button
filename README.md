@@ -1,2 +1,2 @@
-privates-gunosy-floating-button
+floating-button
 ===============================
